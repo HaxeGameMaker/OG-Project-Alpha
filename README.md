@@ -1,2 +1,2 @@
 # OG-Project-Alpha
-Projeto com a finalidade de ser um aplicativo de criação de jogos usando haxe... em Desenvolvemento/Alpha.
+Project with the purpose of being a game creation application using haxe... in Development
